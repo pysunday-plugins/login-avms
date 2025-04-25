@@ -1,0 +1,4 @@
+backports.functools-lru-cache==1.6.4
+beautifulsoup4==4.9.3
+soupsieve==1.9.6
+

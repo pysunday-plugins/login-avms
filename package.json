@@ -1,0 +1,13 @@
+{
+  "name": "avms",
+  "type": "login",
+  "version": "1.0.0",
+  "description": "avms登录模块",
+  "main": "main.py",
+  "keywords": [
+    "sunday",
+    "login"
+  ],
+  "author": "ct",
+  "license": "ISC"
+}
